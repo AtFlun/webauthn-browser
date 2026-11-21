@@ -583,14 +583,14 @@ try {
 
 ## 许可证
 
-ISC © [flun](https://github.com/OpenFlun)
+ISC © [flun](https://github.com/AtFlun)
 
 ---
 
 ## 贡献
 
-- [GitHub 仓库](https://github.com/OpenFlun/webauthn-browser)
-- [gitee 仓库](https://gitee.com/OpenFlun/webauthn-browser)
+- [GitHub 仓库](https://github.com/AtFlun/webauthn-browser)
+- [gitee 仓库](https://gitee.com/AtFlun/webauthn-browser)
 - [npm 包页面](https://www.npmjs.com/package/@flun/webauthn-browser)
 - [配套后端库 @flun/webauthn-server](https://www.npmjs.com/package/@flun/webauthn-server)
 - [W3C WebAuthn 规范](https://w3c.github.io/webauthn/)

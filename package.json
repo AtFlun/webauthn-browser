@@ -34,15 +34,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OpenFlun/webauthn-browser.git"
+    "url": "git+https://github.com/AtFlun/webauthn-browser.git"
   },
   "gitee": {
     "type": "git",
-    "url": "git+https://gitee.com/OpenFlun/webauthn-browser.git"
+    "url": "git+https://gitee.com/AtFlun/webauthn-browser.git"
   },
-  "homepage": "https://github.com/OpenFlun/webauthn-browser#readme",
+  "homepage": "https://github.com/AtFlun/webauthn-browser#readme",
   "bugs": {
-    "url": "https://github.com/OpenFlun/webauthn-browser/issues"
+    "url": "https://github.com/AtFlun/webauthn-browser/issues"
   },
   "license": "ISC",
   "dependencies": {},
